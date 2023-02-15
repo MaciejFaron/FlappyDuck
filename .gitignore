@@ -10,6 +10,11 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# more about UserSettings on
+# https://forum.unity.com/threads/github-doesnt-ignore-the-usersettings-folder-and-the-default-2021-dwlt-file.1217259/
+# https://forum.unity.com/threads/whats-the-usersettings-directory.754436/
+/[Uu]ser[Ss]ettings/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
