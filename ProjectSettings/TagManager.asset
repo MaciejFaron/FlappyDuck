@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Obstacle
+  - DeathZone
+  - SafeZone
   layers:
   - Default
   - TransparentFX
@@ -43,6 +46,17 @@ TagManager:
     locked: 0
   - name: Buttons
     uniqueID: 1989161215
+  - name: Far Background
+    uniqueID: 3527324471
+    locked: 0
+  - name: Mid Background
+    uniqueID: 2782932933
+    locked: 0
+  - name: Player Area
+    uniqueID: 417957687
+    locked: 0
+  - name: Foreground
+    uniqueID: 4052943545
     locked: 0
   - name: Default
     uniqueID: 0
